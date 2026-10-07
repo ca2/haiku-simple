@@ -10,3 +10,7 @@
 	path = source
 	url = ../simple-source
 	branch = main
+[submodule "operating_system"]
+	path = operating_system
+	url = ../haiku-operating_system
+	branch = main
