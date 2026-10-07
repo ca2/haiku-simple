@@ -1,7 +1,3 @@
-[submodule "haiku-operating_system"]
-	path = haiku-operating_system
-	url = ../haiku-operating_system
-	branch = main
 [submodule "port"]
 	path = port
 	url = ../haiku-port
