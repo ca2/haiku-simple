@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeDeletion="false">
+    <option name="confirmBeforeDeletion" value="false" />
+    <serverData>
+      <paths name="Haiku (8c46edee-e154-4bc2-8746-dbc820062b88)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/simple" local="$PROJECT_DIR$" />
+            <mapping deploy="/code/simple-cmake-build-debug-haiku" local="$PROJECT_DIR$/../simple-cmake-build-debug-haiku" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-haiku" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-haiku-event-trace" />
+            <excludedPath local="true" path="$PROJECT_DIR$/../simple-cmake-build-debug-haiku" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (99139b43-eafa-4baf-9a8d-ab8370dbc328)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
