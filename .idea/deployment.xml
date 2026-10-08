@@ -11,8 +11,10 @@
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-haiku" />
-            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-haiku-event-trace" />
             <excludedPath local="true" path="$PROJECT_DIR$/../simple-cmake-build-debug-haiku" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-haiku-event-trace" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
           </excludedPaths>
         </serverdata>
       </paths>
