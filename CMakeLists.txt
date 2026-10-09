@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(main)
+project(haiku-simple)
 
 
 include(source/app/_.cmake)
